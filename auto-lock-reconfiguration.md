@@ -1,5 +1,7 @@
----  
-description: Pour les installations incluant un Auto-Lock  
+---
+description: >-
+
+Pour les installations incluant un Auto-Lock  
 ---  
    
 # Reconfiguration de l'Auto-Lock  
