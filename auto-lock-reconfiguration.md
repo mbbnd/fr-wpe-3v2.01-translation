@@ -1,6 +1,5 @@
 ---
 description: >-
-
 Pour les installations incluant un Auto-Lock  
 ---  
    
