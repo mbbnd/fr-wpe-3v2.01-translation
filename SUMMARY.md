@@ -19,7 +19,7 @@
   * [Connect Base Station](installation/connect-base-station.md)
   * [Align Transmitter & Receiver](installation/align-transmitter-and-receiver.md)
   * [Set Limits](installation/set-limits.md)
-* [Auto-Lock Reconfiguration](auto-lock-reconfiguration.md)
+* [Reconfiguration de l'Auto-Lock](auto-lock-reconfiguration.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Door Will Not Close](troubleshooting/door-will-not-close.md)
   * [Flashing Light](troubleshooting/flashing-light.md)
