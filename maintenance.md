@@ -8,10 +8,6 @@ description: >-
 
 ***
 
-### &#x20;Pour assurer une longue durée de vie sans problème à vos faisceaux de sécurité, suivez ces étapes de maintenance régulières :
-
-## Maintenance
-
 **Test**
 
 Effectuez périodiquement un test pour vérifier que le faisceau de sécurité fonctionne efficacement en obstruant soit l'émetteur, soit le récepteur pendant le fonctionnement de l'ouvre-porte pour vous assurer que la porte s'arrête.
