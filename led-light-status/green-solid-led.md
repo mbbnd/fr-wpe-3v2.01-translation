@@ -1,16 +1,13 @@
 # 🟢 Green Solid LED
 
-
-
-<figure><img src="../.gitbook/assets/Beam Green LED@2x.png" alt=""><figcaption></figcaption></figure>
-
-The Receiver unit displays a solid GREEN LED when any of the following occur:
-
-* The beam is active, clear and the door is moving
-
-The Receiver LED display is off in all following situations
-
-* The beam is blocked
-* The opener is not connected
-* The door is not moving
-
+<figure><img src="../.gitbook/assets/Beam Green LED@2x.png" alt=""><figcaption></figcaption></figure>  
+   
+L'unité réceptrice affiche une LED VERTE fixe lorsque l'une des situations suivantes se produit :  
+   
+* Le faisceau est actif, dégagé et la porte est en mouvement  
+   
+L'affichage de la LED du récepteur est éteint dans toutes les situations suivantes :  
+   
+* Le faisceau est bloqué  
+* L'ouvre-porte n'est pas connecté  
+* La porte ne bouge pas
