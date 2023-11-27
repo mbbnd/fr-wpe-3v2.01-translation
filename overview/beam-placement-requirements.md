@@ -4,10 +4,10 @@ description: Vital setup basics
 
 # Beam Placement Requirements
 
-<figure><img src="../.gitbook/assets/Mount Brackets@4x.png" alt=""><figcaption></figcaption></figure>
-
-The transmitter and receiver must be placed in line of sight of each other in order to function.
-
-It's a requirement of Australia/ New Zealand Standard 60335-2-95:2020, that the beam must be placed 100mm above ground level. This can be achieved by ensuring the bottom of the receiver and transmitter units are 65mm above ground level. \
-\
-They should also be placed as close as possible to the door opening with the receiver (RX) in shade and the transmitter (TX) in sun or shade.
+<figure><img src="../.gitbook/assets/Mount Brackets@4x.png" alt=""><figcaption></figcaption></figure>  
+   
+L'émetteur et le récepteur doivent être placés en ligne de mire l'un de l'autre afin de fonctionner.  
+   
+Il est exigé par la norme australienne/néo-zélandaise 60335-2-95:2020 que le faisceau soit placé à 100 mm au-dessus du niveau du sol. Cela peut être réalisé en veillant à ce que le bas des unités réceptrice et émettrice soit à 65 mm au-dessus du niveau du sol. \  
+\  
+Ils doivent également être placés le plus près possible de l'ouverture de la porte, le récepteur (RX) à l'ombre et l'émetteur (TX) au soleil ou à l'ombre.
