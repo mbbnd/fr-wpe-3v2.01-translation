@@ -2,7 +2,7 @@
 
 * [Sujets d'aide](README.md)
 * [Overview](overview/README.md)
-  * [Do you need a safety beam?](overview/do-you-need-a-safety-beam.md)
+  * [Avez-vous besoin d'un faisceau de sécurité ?](overview/do-you-need-a-safety-beam.md)
   * [Power & Wiring Requirements](overview/power-and-wiring-requirements.md)
   * [Beam Placement Requirements](overview/beam-placement-requirements.md)
   * [Device Compatibility](overview/device-compatibility.md)
