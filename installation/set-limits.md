@@ -1,7 +1,7 @@
 ---
-description: Refer to the opener manual for this step
+description: Consultez le manuel de l'ouvre-porte pour cette étape.
 ---
 
 # Set Limits
 
-Once the beam is aligned, continue with the instructions provided in the opener's manual to Set Limits. If the opener has previously been installed, there is no need to reset limits.
+Une fois que le faisceau est aligné, continuez avec les instructions fournies dans le manuel de l'ouvre-porte pour régler les limites. Si l'ouvre-porte a déjà été installé, il n'est pas nécessaire de réinitialiser les limites.
