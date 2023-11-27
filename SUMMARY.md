@@ -7,7 +7,7 @@
   * [Exigences de placement du faisceau](overview/beam-placement-requirements.md)
   * [Compatibilité des appareils](overview/device-compatibility.md)
 * [Avertissements de sécurité](safety-warnings.md)
-* [Kit Components](kit-components/README.md)
+* [Composants du kit](kit-components/README.md)
   * [Kit Components (old)](kit-components/kit-components-old.md)
 * [Registering or Disconnecting](registering-or-disconnecting/README.md)
   * [Disconnect Safety Beam](registering-or-disconnecting/disconnect-safety-beam.md)
