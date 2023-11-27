@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Help Topics](README.md)
+* [Sujets d'aide](README.md)
 * [Overview](overview/README.md)
   * [Do you need a safety beam?](overview/do-you-need-a-safety-beam.md)
   * [Power & Wiring Requirements](overview/power-and-wiring-requirements.md)
