@@ -1,13 +1,13 @@
 ---
 description: >-
-  Safety Close mode allows you to override the safety beam in the event of
-  unresolved malfunction
+  Le mode de fermeture sécurisée vous permet de passer outre le faisceau de
+ sécurité en cas de dysfonctionnement non résolu.
 ---
 
 # Safety Close Mode
 
-To initiate Safety Close mode, press and hold the Close button on your remove for 5 seconds. The opener will beep and the door will begin to close.
-
-{% hint style="info" %}
-To prevent the door from automatically re-opening you must ensure that the door is fully closed before releasing the button.&#x20;
+Pour activer le mode de fermeture sécurisée, appuyez et maintenez enfoncé le bouton de fermeture de votre télécommande pendant 5 secondes. L'ouvre-porte émettra un bip et la porte commencera à se fermer.  
+   
+{% hint style="info" %}  
+Pour éviter que la porte ne se rouvre automatiquement, assurez-vous que la porte est complètement fermée avant de relâcher le bouton.&#x20;  
 {% endhint %}
