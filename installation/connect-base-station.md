@@ -1,9 +1,9 @@
 # Connect Base Station
 
-Insert base station into compatible opener. See [compatibility list](../overview/device-compatibility.md).
-
-{% hint style="danger" %}
-WARNING! Ensure power is disconnected from opener before removing any covers.
-{% endhint %}
-
+Insérez la station de base dans l'ouvre-porte compatible. Consultez la [liste de compatibilité](../overview/device-compatibility.md).  
+   
+{% hint style="danger" %}  
+AVERTISSEMENT ! Assurez-vous que l'alimentation de l'ouvre-porte est déconnectée avant de retirer les couvercles.  
+{% endhint %}  
+   
 <figure><img src="../.gitbook/assets/Connect Base Station@4x.png" alt=""><figcaption></figcaption></figure>
