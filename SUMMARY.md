@@ -6,7 +6,7 @@
   * [Alimentation et exigences en matière de câblage](overview/power-and-wiring-requirements.md)
   * [Exigences de placement du faisceau](overview/beam-placement-requirements.md)
   * [Compatibilité des appareils](overview/device-compatibility.md)
-* [Safety Warnings](safety-warnings.md)
+* [Avertissements de sécurité](safety-warnings.md)
 * [Kit Components](kit-components/README.md)
   * [Kit Components (old)](kit-components/kit-components-old.md)
 * [Registering or Disconnecting](registering-or-disconnecting/README.md)
