@@ -1,10 +1,14 @@
 ---
-description: Which door and shutter openers does this safety beam work with?
+description: >-
+  Avec quels types d'ouvre-portes et d'ouvre-volets cette barrière de sécurité
+  fonctionne-t-elle ?
 ---
 
-# Device Compatibility
+# Compatibilité des appareils
 
-The WPE3V2 Safety Beam works with the following automatic openers, manufactured by ATA, B\&D, Garador and Dominator:
+La barrière de sécurité WPE3V2 fonctionne avec les ouvre-portes automatiques suivants, fabriqués par ATA, B\&D, Garador et Dominator :
+
+
 
 * SmartPro
 * Smart
@@ -15,8 +19,3 @@ The WPE3V2 Safety Beam works with the following automatic openers, manufactured 
 * Genius HD
 * Genius
 * Precision
-
-
-
-
-
