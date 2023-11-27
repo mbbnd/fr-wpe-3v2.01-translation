@@ -6,8 +6,6 @@ description: >-
 
 # Assemble Transmitter & Receiver Modules
 
-## Assemble Transmitter & Receiver Modules
-
 **Fermez et sécurisez les couvercles**
 
 <figure><img src="../.gitbook/assets/Close and Secure Covers@4x.png" alt=""><figcaption></figcaption></figure>
