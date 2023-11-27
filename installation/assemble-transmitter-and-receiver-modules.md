@@ -1,5 +1,4 @@
 ---
-description: >-
   description: Fermez les couvercles du transmetteur et du récepteur et
   fixez-les aux supports
 ---
