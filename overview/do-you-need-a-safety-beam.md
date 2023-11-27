@@ -1,10 +1,10 @@
 ---
-description: Some door and shutter installations require safety beams by law
+description: Certaines installations de portes et de volets nécessitent des faisceaux de sécurité en vertu de la loi.
 ---
 
-# Do you need a safety beam?
-
-In Australia and New Zealand, your powered door or shutter opener must be fitted with Safety Beams if:
-
-* The closing force at the bottom edge of the door exceeds 400 Newtons (40kg), and or;
-* The opener has a smart device fitted to operate the door, when not in line-of-sight as per; AS/NZS 60335-2-95:2020.
+# Avez-vous besoin d'un faisceau de sécurité?  
+   
+En Australie et en Nouvelle-Zélande, votre ouvre-porte ou volet motorisé doit être équipé de faisceaux de sécurité si :  
+   
+* La force de fermeture au niveau du bord inférieur de la porte dépasse 400 Newtons (40 kg), et/ou ;  
+* L'ouvre-porte est équipé d'un dispositif intelligent permettant d'ouvrir la porte sans avoir une vue directe conformément à la norme AS/NZS 60335-2-95:2020.
