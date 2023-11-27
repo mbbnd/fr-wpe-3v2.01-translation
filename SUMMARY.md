@@ -8,7 +8,7 @@
   * [Compatibilité des appareils](overview/device-compatibility.md)
 * [Avertissements de sécurité](safety-warnings.md)
 * [Composants du kit](kit-components/README.md)
-  * [Kit Components (old)](kit-components/kit-components-old.md)
+  * [Composants du kit (ancien)](kit-components/kit-components-old.md)
 * [Registering or Disconnecting](registering-or-disconnecting/README.md)
   * [Disconnect Safety Beam](registering-or-disconnecting/disconnect-safety-beam.md)
   * [Re-registering Safety Beam](registering-or-disconnecting/re-registering-safety-beam.md)
