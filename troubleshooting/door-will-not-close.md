@@ -1,14 +1,14 @@
 # Door Will Not Close
 
-Tout d'abord, recherchez une LED ROUGE sur l'unité réceptrice du faisceau de sécurité.  
+Tout d'abord, recherchez une EDL ROUGE sur l'unité réceptrice du faisceau de sécurité.  
    
-<figure><img src="../.gitbook/assets/Beam with Red LED@2x.png" alt=""><figcaption><p>La LED ROUGE sur l'unité réceptrice confirme que le faisceau est aligné et non obstrué</p></figcaption></figure>  
+<figure><img src="../.gitbook/assets/Beam with Red LED@2x.png" alt=""><figcaption><p>La EDL ROUGE sur l'unité réceptrice confirme que le faisceau est aligné et non obstrué</p></figcaption></figure>  
    
 ### SYMPTÔMES  
    
 <details>  
    
-<summary>Aucune LED n'apparaît sur l'unité réceptrice</summary>  
+<summary>Aucune EDK n'apparaît sur l'unité réceptrice</summary>  
    
 ### Causes possibles / Solutions  
    
@@ -24,7 +24,7 @@ SOLUTION : Retirez l'obstruction du chemin du faisceau.
    
 <details>  
    
-<summary>Une LED ROUGE s'allume sur l'unité réceptrice</summary>  
+<summary>Une EDL ROUGE s'allume sur l'unité réceptrice</summary>  
    
 ### Causes possibles / Solutions  
    
