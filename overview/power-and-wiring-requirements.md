@@ -1,10 +1,10 @@
----
-description: No additional wiring required
----
-
-# Power & Wiring Requirements
-
-The transmitter and receiver units each use 2 x Type C, 1.5 Volt batteries to generate and detect an infrared safety beam across the door, or shutter pathway.  \
-\
-The transmitter and receiver units communicate wirelessly via Bluetooth with the supplied Base Station module, which fits inside any compatible opener.\
+---  
+description: Aucun câblage supplémentaire requis  
+---  
+   
+# Alimentation et exigences en matière de câblage  
+   
+Les unités émettrice et réceptrice utilisent chacune 2 piles de type C, 1,5 volt pour générer et détecter un faisceau infrarouge de sécurité à travers le passage de la porte ou du volet. \  
+\  
+Les unités émettrice et réceptrice communiquent sans fil via Bluetooth avec le module de station de base fourni, qui s'adapte à l'intérieur de tout ouvre-porte compatible.\  
 \
