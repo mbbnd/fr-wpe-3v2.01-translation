@@ -1,30 +1,29 @@
 # Safety Warnings
 
-{% hint style="warning" %}
-When using Safety beams, the doorway must be clear of all obstructions and persons at all times. The location of the beams and manner in which they are installed might not give safety protection at all times.
-
-The sensors need to be 100mm above the floor level, however, the exact position must be chosen in such a manner that it suits the application, the environmental conditions and provides maximum safety protection.
-
-When using auto close mode, a Safety beam must be fitted correctly and tested for operation at regular intervals. Extreme caution is recommended when using auto close mode. All safety rules must be followed.
+{% hint style="warning" %}  
+Lors de l'utilisation des faisceaux de sécurité, l'entrée doit être dégagée de tout obstacle et de toute personne en tout temps. L'emplacement des faisceaux et la manière dont ils sont installés peuvent ne pas offrir une protection de sécurité en tout temps.  
+   
+Les capteurs doivent être situés à 100 mm au-dessus du niveau du sol, cependant, la position exacte doit être choisie de manière à convenir à l'application, aux conditions environnementales et à fournir une protection de sécurité maximale.  
+   
+Lors de l'utilisation du mode de fermeture automatique, un faisceau de sécurité doit être correctement installé et testé régulièrement pour son fonctionnement. Une extrême prudence est recommandée lors de l'utilisation du mode de fermeture automatique. Toutes les règles de sécurité doivent être respectées.  
+{% endhint %}  
+   
+{% hint style="danger" %}  
+**Risque d'électrocution**  
+   
+Débranchez le cordon d'alimentation de l'alimentation principale et de la batterie de secours (si installée) avant d'effectuer des réparations ou de retirer les couvercles des ouvre-portes.  
+{% endhint %}  
+   
+{% hint style="info" %}  
+**Risque d'emprisonnement**  
+   
+Assurez-vous que la porte de garage est en bon état de fonctionnement en effectuant un entretien régulier. Les faisceaux de sécurité doivent être installés si la force de fermeture au bord inférieur de la porte dépasse 400N (40kg).  
+{% endhint %}  
+   
+{% hint style="danger" %}  
+**Risque de chute de l'échelle**  
+   
+* Assurez-vous que l'échelle est du type approprié pour la tâche.  
+* Assurez-vous que l'échelle est sur un sol plat.  
+* Assurez-vous que l'utilisateur a 3 points de contact lorsqu'il est sur l'échelle.  
 {% endhint %}
-
-{% hint style="danger" %}
-**Risk of Electrocution**
-
-Disconnect the power cord from mains power and battery backup (if installed) before making any repairs or removing covers on openers.
-{% endhint %}
-
-{% hint style="info" %}
-**Risk of Entrapment**
-
-Ensure the garage door is in good working order by undertaking regular servicing. Safety beams must be installed if the closing force at the bottom edge of the door exceeds 400N (40kg)
-{% endhint %}
-
-{% hint style="danger" %}
-**Risk of Fall from Ladder**
-
-* Ensure ladder is the correct type for job.
-* Ensure ladder is on flat ground.
-* Ensure user has 3 points of contact while on ladder.
-{% endhint %}
-
