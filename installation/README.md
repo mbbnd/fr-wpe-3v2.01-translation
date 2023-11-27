@@ -1,31 +1,29 @@
 # Installation
 
-The Safety Beam Kit provides additional safety by preventing the shutter closing when the beam is blocked by a car, child etc.
-
-The transmitter and receiver need to be placed in line of sight, with the beam 100mm above the ground level (as per AS/NZS 60335-2-95:2020). This can be achieved by ensuring the bottom of the receiver and transmitter are 65mm above ground level. They should also be placed as close as possible to the door opening with the receiver (RX) in shade and the transmitter (TX) in sun or shade.
-
-
-
-{% content-ref url="insert-replace-batteries.md" %}
-[insert-replace-batteries.md](insert-replace-batteries.md)
-{% endcontent-ref %}
-
-{% content-ref url="assemble-transmitter-and-receiver-modules.md" %}
-[assemble-transmitter-and-receiver-modules.md](assemble-transmitter-and-receiver-modules.md)
-{% endcontent-ref %}
-
-{% content-ref url="mount-brackets.md" %}
-[mount-brackets.md](mount-brackets.md)
-{% endcontent-ref %}
-
-{% content-ref url="connect-base-station.md" %}
-[connect-base-station.md](connect-base-station.md)
-{% endcontent-ref %}
-
-{% content-ref url="align-transmitter-and-receiver.md" %}
-[align-transmitter-and-receiver.md](align-transmitter-and-receiver.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-limits.md" %}
-[set-limits.md](set-limits.md)
+Le kit de faisceau de sécurité offre une sécurité supplémentaire en empêchant la fermeture du volet lorsque le faisceau est bloqué par une voiture, un enfant, etc.  
+   
+L'émetteur et le récepteur doivent être placés en ligne de mire, avec le faisceau à 100 mm au-dessus du niveau du sol (conformément à la norme AS/NZS 60335-2-95:2020). Cela peut être réalisé en veillant à ce que le bas du récepteur et de l'émetteur soit à 65 mm au-dessus du niveau du sol. Ils doivent également être placés aussi près que possible de l'ouverture de la porte, avec le récepteur (RX) à l'ombre et l'émetteur (TX) au soleil ou à l'ombre.  
+   
+{% content-ref url="insert-replace-batteries.md" %}  
+[insert-replace-batteries.md](insert-replace-batteries.md)  
+{% endcontent-ref %}  
+   
+{% content-ref url="assemble-transmitter-and-receiver-modules.md" %}  
+[assemble-transmitter-and-receiver-modules.md](assemble-transmitter-and-receiver-modules.md)  
+{% endcontent-ref %}  
+   
+{% content-ref url="mount-brackets.md" %}  
+[mount-brackets.md](mount-brackets.md)  
+{% endcontent-ref %}  
+   
+{% content-ref url="connect-base-station.md" %}  
+[connect-base-station.md](connect-base-station.md)  
+{% endcontent-ref %}  
+   
+{% content-ref url="align-transmitter-and-receiver.md" %}  
+[align-transmitter-and-receiver.md](align-transmitter-and-receiver.md)  
+{% endcontent-ref %}  
+   
+{% content-ref url="set-limits.md" %}  
+[set-limits.md](set-limits.md)  
 {% endcontent-ref %}
