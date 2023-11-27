@@ -4,7 +4,7 @@
 * [Overview](overview/README.md)
   * [Avez-vous besoin d'un faisceau de sécurité ?](overview/do-you-need-a-safety-beam.md)
   * [Alimentation et exigences en matière de câblage](overview/power-and-wiring-requirements.md)
-  * [Beam Placement Requirements](overview/beam-placement-requirements.md)
+  * [Exigences de placement du faisceau](overview/beam-placement-requirements.md)
   * [Device Compatibility](overview/device-compatibility.md)
 * [Safety Warnings](safety-warnings.md)
 * [Kit Components](kit-components/README.md)
