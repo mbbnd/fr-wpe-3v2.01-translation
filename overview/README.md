@@ -1,15 +1,15 @@
 ---
-description: Who and what is this safety beam for?
+description: Pour qui et pour quoi est destiné ce faisceau de sécurité ?
 ---
 
-# Overview
+# Aperçu
 
 <figure><img src="../.gitbook/assets/safetyinfraredbeam_retouched-no-antennae.jpg" alt=""><figcaption><p><strong>Helps prevent accidental closure of your automatic door, or shutter, when obstructed by people, pets or objects.</strong></p></figcaption></figure>
 
 {% hint style="info" %}
-When viewing on a mobile device, for detailed navigation click the menu icon (top left).&#x20;
+Lorsque vous consultez sur un appareil mobile, pour une navigation détaillée, cliquez sur l'icône du menu (en haut à gauche).
 
-If you can't find what you're looking for, click the magnifying glass icon to search the entire manual (top right).
+Si vous ne trouvez pas ce que vous cherchez, cliquez sur l'icône de la loupe pour rechercher dans l'ensemble du manuel (en haut à droite).
 {% endhint %}
 
 {% content-ref url="do-you-need-a-safety-beam.md" %}
