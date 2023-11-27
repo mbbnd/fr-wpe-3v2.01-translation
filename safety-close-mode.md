@@ -1,3 +1,8 @@
+---
+description: >-
+  Safety Close mode allows you to override the safety beam in the event of
+  unresolved malfunction
+---
 
 # Safety Close Mode
 
