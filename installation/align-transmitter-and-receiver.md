@@ -1,33 +1,29 @@
 # Align Transmitter & Receiver
 
-**Step 1:** Power the opener on. Door position is not set yet.
-
-<figure><img src="../.gitbook/assets/Power-On@2x.png" alt=""><figcaption><p>Power on the opener to align beam</p></figcaption></figure>
-
-
-
-**Step 2:** LEDs will flicker on ALL parts, to indicate successful Bluetooth connection. Flickering stops after 30 seconds.
-
-<figure><img src="../.gitbook/assets/Beam-and-Base-Station@2x (2).gif" alt=""><figcaption><p>Flickering LED signals successful Bluetooth connection</p></figcaption></figure>
-
-
-
-**Step 3:** Check alignment status.
-
-<figure><img src="../.gitbook/assets/Beam Aligned Red LED@2x.png" alt=""><figcaption><p>Solid RED LED signals beam is aligned</p></figcaption></figure>
-
-When the Receiver's Red LED is on, the beam is correctly aligned.
-
-When the Receiver's RED LED is off, the beam is not correctly aligned.
-
-<figure><img src="../.gitbook/assets/Off Beam Unit@2x.png" alt=""><figcaption><p>No RED LED signals beam not aligned</p></figcaption></figure>
-
-**Step 4:** Align Transmitter and Receiver
-
-During the alignment process, the opener's beam alignment feature provides a guide by means of its main light (the courtesy light) and beeper.
-
-<figure><img src="../.gitbook/assets/opener alignment feature@2x.png" alt=""><figcaption><p>Together, the opener's courtesy (main) light and beeper indicate beam alignment / blocked status</p></figcaption></figure>
-
-To align the safety beam, loosen wing nut at the rear of either transmitter or receiver unit and adjust until the opener signals alignment (see above).
-
-<figure><img src="../.gitbook/assets/Align Units@2x.png" alt=""><figcaption><p>With rear wingnut loosened, adjust transmitter or receiver unit in the direction of the arrows</p></figcaption></figure>
+**Étape 1:** Allumez l'ouvre-porte. La position de la porte n'est pas encore définie.  
+   
+<figure><img src="../.gitbook/assets/Power-On@2x.png" alt=""><figcaption><p>Allumez l'ouvre-porte pour aligner le faisceau</p></figcaption></figure>  
+   
+**Étape 2:** Les LED clignoteront sur TOUTES les parties pour indiquer une connexion Bluetooth réussie. Le clignotement s'arrête après 30 secondes.  
+   
+<figure><img src="../.gitbook/assets/Beam-and-Base-Station@2x (2).gif" alt=""><figcaption><p>Le clignotement de la LED indique une connexion Bluetooth réussie</p></figcaption></figure>  
+   
+**Étape 3:** Vérifiez l'état d'alignement.  
+   
+<figure><img src="../.gitbook/assets/Beam Aligned Red LED@2x.png" alt=""><figcaption><p>La LED ROUGE fixe indique que le faisceau est aligné</p></figcaption></figure>  
+   
+Lorsque la LED ROUGE du récepteur est allumée, le faisceau est correctement aligné.  
+   
+Lorsque la LED ROUGE du récepteur est éteinte, le faisceau n'est pas correctement aligné.  
+   
+<figure><img src="../.gitbook/assets/Off Beam Unit@2x.png" alt=""><figcaption><p>Aucune LED ROUGE n'indique que le faisceau n'est pas aligné</p></figcaption></figure>  
+   
+**Étape 4:** Alignez l'émetteur et le récepteur  
+   
+Pendant le processus d'alignement, la fonction d'alignement du faisceau de l'ouvre-porte offre un guide grâce à sa lumière principale (la lumière de courtoisie) et son avertisseur sonore.  
+   
+<figure><img src="../.gitbook/assets/opener alignment feature@2x.png" alt=""><figcaption><p>Ensemble, la lumière de courtoisie (principale) de l'ouvre-porte et l'avertisseur sonore indiquent l'alignement du faisceau / l'état de blocage</p></figcaption></figure>  
+   
+Pour aligner le faisceau de sécurité, desserrez l'écrou à oreilles à l'arrière de l'unité émettrice ou réceptrice et ajustez jusqu'à ce que l'ouvre-porte signale l'alignement (voir ci-dessus).  
+   
+<figure><img src="../.gitbook/assets/Align Units@2x.png" alt=""><figcaption><p>Avec l'écrou à oreilles arrière desserré, ajustez l'unité émettrice ou réceptrice dans la direction des flèches</p></figcaption></figure>
