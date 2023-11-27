@@ -1,10 +1,10 @@
 ---
-description: (This is the original version in the existing manual)
+description: (Ceci est la version originale dans le manuel existant)
 ---
 
-# Kit Components (old)
+# Composants du kit (ancien)
 
-![](<../.gitbook/assets/Transmitter - Receiver Unit@2x.png>) 2 x Transmitter / Receiver Units&#x20;
+![](<../.gitbook/assets/Transmitter - Receiver Unit@2x.png>) 2 x Transmitter / Receiver Units
 
 ![](<../.gitbook/assets/Base Station@2x.png>)1 x Base Station
 
