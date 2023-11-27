@@ -1,5 +1,5 @@
 ---
-description: How to disable safety beam for any period of time
+description: Comment désactiver le faisceau de sécurité pendant une période de temps quelconque
 ---
 
 # Disconnect Safety Beam
