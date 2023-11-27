@@ -2,7 +2,7 @@
 description: Vital setup basics
 ---
 
-# Beam Placement Requirements
+# Exigences de placement du faisceau
 
 <figure><img src="../.gitbook/assets/Mount Brackets@4x.png" alt=""><figcaption></figcaption></figure>  
    
