@@ -1,8 +1,3 @@
----
-description: >-
-  Le mode de fermeture sécurisée vous permet de passer outre le faisceau de
- sécurité en cas de dysfonctionnement non résolu.
----
 
 # Safety Close Mode
 
